@@ -44,3 +44,21 @@ I believe in 'consistency, clean code, and continuous improvement'.
 To grow into a "strong product-based Software Engineer" who understands systems deeply, writes high-quality code, and delivers real business value.
 
 ⭐ *I believe GitHub is not just about code — it’s about showing growth, discipline, and engineering mindset.*
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PremSrivastava&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PremSrivastava&theme=transparent&hide_border=true" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSrivastava&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PremSrivastava&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PremSrivastava&theme=github-compact&hide_border=true" />
+</p>
+
