@@ -19,6 +19,9 @@
               Late+Night+%F0%9F%8C%99+%7C+Debugging+and+learning"
   />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6C757D&center=true&vCenter=true&width=700&lines=Hey%2C+this+is+Prem+Srivastava+here+%F0%9F%91%8B;Good+Morning+%E2%98%80%EF%B8%8F+%7C+Let%E2%80%99s+build+something+awesome;Good+Afternoon+%F0%9F%8C%A4+%7C+Writing+clean+code;Good+Evening+%F0%9F%8C%86+%7C+Solving+real-world+problems;Late+Night+%F0%9F%8C%99+%7C+Debugging+and+learning&cacheSeconds=1" />
+</p>
 
 
 ### Aspiring Software Engineer | B.Tech CSE (3rd Year)
