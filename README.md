@@ -8,9 +8,9 @@ I believe in 'consistency, clean code, and continuous improvement'.
 
 ## 🧠 Core Technical Skills
 
-* 'Python' (Scripting, basic projects, ML fundamentals)
-* 'JavaScript' (ES6+ basics)
-* 'C++' (DSA, STL, OOPs)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,mysql,html,css,js,react,nodejs,express,mongodb,sqlite,postman,git,github,vscode,linux,docker,nginx,aws," />
+</p>
 
 ### Data Structures & Algorithms
 
@@ -19,24 +19,6 @@ I believe in 'consistency, clean code, and continuous improvement'.
 * Trees, Recursion
 * Sorting & Searching
 * Time & Space Complexity Analysis
-
-### Web Development
-
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Node.js, Express.js
-* **APIs:** RESTful APIs
-
-### Databases
-
-* **MySQL** (Joins, Subqueries, Constraints)
-* **MongoDB** (Basics, CRUD operations)
-
-### Other Tools & Concepts
-
-* Git & GitHub
-* SQL Query Optimization
-* Basic Machine Learning concepts
-* Problem Solving & Debugging
 
 ## 📈 Currently Working On
 
@@ -62,29 +44,3 @@ I believe in 'consistency, clean code, and continuous improvement'.
 To grow into a "strong product-based Software Engineer" who understands systems deeply, writes high-quality code, and delivers real business value.
 
 ⭐ *I believe GitHub is not just about code — it’s about showing growth, discipline, and engineering mindset.*
-
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,sql" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-Customize this exactly for placements / internships
-
-🧾 Add projects section with icons<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,aws" />
-</p>
-
