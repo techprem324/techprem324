@@ -62,3 +62,29 @@ I believe in 'consistency, clean code, and continuous improvement'.
 To grow into a "strong product-based Software Engineer" who understands systems deeply, writes high-quality code, and delivers real business value.
 
 ⭐ *I believe GitHub is not just about code — it’s about showing growth, discipline, and engineering mindset.*
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,sql" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+Customize this exactly for placements / internships
+
+🧾 Add projects section with icons<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws" />
+</p>
+
