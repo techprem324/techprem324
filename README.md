@@ -31,16 +31,6 @@ I believe in 'consistency, clean code, and continuous improvement'.
 * Improving database performance and query writing
 * Building production-ready projects
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PremSrivastava&show_icons=true&hide_title=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PremSrivastava" height="150" />
-</p>
-
----
 
 ## 🎯 Career Goal
 
