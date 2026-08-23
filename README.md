@@ -15,14 +15,6 @@ I believe in 'consistency, clean code, and continuous improvement'.
   <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,mysql,html,css,js,react,nodejs,express,mongodb,sqlite,postman,git,github,vscode,linux,docker,nginx,aws," />
 </p>
 
-### Data Structures & Algorithms
-
-* Arrays, Strings, Linked Lists
-* Stacks, Queues
-* Trees, Recursion
-* Sorting & Searching
-* Time & Space Complexity Analysis
-
 ## 📈 Currently Working On
 
 * Advanced "DSA problem-solving"
