@@ -3,9 +3,9 @@
 </p>
 
 
-### Aspiring Software Engineer | B.Tech CSE (3rd Year)
+### AI-Powered Software Engineer | B.Tech CSE (Final Year)
 
-I am a 'Computer Science undergraduate' with a strong interest in 'software development, problem-solving, and scalable systems'. I focus on building a solid foundation in 'Data Structures & Algorithms, backend development, and databases', while continuously improving my practical skills through projects and hands-on learning.
+I am a 'Computer Science undergraduate' with a strong interest in 'software development, problem-solving, and scalable 'ML embedded systems'. I focus on building a solid foundation in 'Data Structures & Algorithms, backend development, and databases', while continuously improving my practical skills through projects and hands-on learning.
 
 I believe in 'consistency, clean code, and continuous improvement'.
 
@@ -26,6 +26,6 @@ I believe in 'consistency, clean code, and continuous improvement'.
 
 ## 🎯 Career Goal
 
-To grow into a "strong product-based Software Engineer" who understands systems deeply, writes high-quality code, and delivers real business value.
+Grow into a "strong product-based Software Engineer" who understands systems deeply, writes high-quality code, and delivers real business value.
 
 ⭐ *I believe GitHub is not just about code — it’s about showing growth, discipline, and engineering mindset.*
