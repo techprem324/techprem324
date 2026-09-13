@@ -17,11 +17,12 @@ I believe in 'consistency, clean code, and continuous improvement'.
 
 ## 📈 Currently Working On
 
-* Advanced "DSA problem-solving"
-* Backend system design fundamentals
-* Dealing with RESTful API
-* Improving database performance and query writing
-* Building production-ready projects
+- 🧩 Advanced DSA problem-solving
+- 🏗️ Backend system design fundamentals
+- 🔌 Building and consuming RESTful APIs
+- 🗄️ Improving database performance and query writing
+- 🚀 Shipping production-ready projects
+
 
 
 ## 🎯 Career Goal
