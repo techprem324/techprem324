@@ -1,84 +1,48 @@
-<!-- ⚡ techprem324 profile README ⚡ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+this+is+Prem+Srivastava+here+%F0%9F%91%8B;Good+Morning+%E2%98%80%EF%B8%8F+%7C+Let%E2%80%99s+build+something+awesome;Good+Afternoon+%F0%9F%8C%A4+%7C+Writing+clean+code;Good+Evening+%F0%9F%8C%86+%7C+Solving+real-world+problems;Late+Night+%F0%9F%8C%99+%7C+Debugging+and+learning&cacheSeconds=1" alt="Typing intro" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:0ea5e9,70:7c3aed,100:a855f7&section=header&text=%E2%9A%A1%20PREM%20SRIVASTAVA%20%E2%9A%A1&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Build%20%E2%80%A2%20Break%20%E2%80%A2%20Repeat&descSize=20&descAlignY=60" width="100%" alt="Animated lightning header" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00d4ff,50:6a11cb,100:a855f7&section=header&animation=twinkling&fontColor=ffffff" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9A%A1-POWERED%20BY%20LIGHTNING-00d4ff?style=for-the-badge&labelColor=0d1117" alt="badge" />
+  <img src="https://img.shields.io/github/followers/techprem324?style=for-the-badge&logo=github&color=a855f7&labelColor=0d1117" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=techprem324&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" alt="views" />
+</p>
 
-<img src="https://raw.githubusercontent.com/techprem324/techprem324/main/lightning.svg" width="100%" alt="lightning banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=%E2%9A%A1+Full+Stack+Developer;%E2%9A%A1+Code.+Create.+Conquer.;%E2%9A%A1+Powered+by+Lightning" alt="typing" />
-
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00d4ff,50:7c3aed,100:a855f7&animation=twinkling" width="100%" alt="divider" />
 
 ## 🧠 Core Technical Skills
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,mysql,html,css,react,nodejs,express,mongodb,sqlite,postman,git&perline=14" alt="skills row 1" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,docker,nginx,aws&perline=14" alt="skills row 2" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=py,js,c,cpp,mysql,html,css,react,nodejs,express,mongodb,sqlite,postman,git&perline=14" />
-<br/>
-<img src="https://skillicons.dev/icons?i=github,vscode,linux,docker,nginx,aws&perline=14" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:a855f7,50:7c3aed,100:00d4ff&animation=twinkling" width="100%" alt="divider" />
 
-</div>
+## 🔥 GitHub Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techprem324&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4ff&hide_border=false&count_private=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techprem324&layout=compact&theme=radical&bg_color=0d1117&border_color=a855f7&hide_border=false" height="165" alt="top languages" />
+</p>
 
-## ⚡ Featured Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=techprem324&theme=radical&background=0d1117&border=a855f7&hide_border=false" alt="streak" />
+</p>
 
-<div align="center">
+<!-- OPTIONAL PROJECT CARDS: remove the comment markers around this block and put your real repo names in place of YOUR_REPO_1 and YOUR_REPO_2
 
-<!-- 👇 Replace REPO_NAME_1 / 2 / 3 / 4 with your real repository names -->
-<a href="https://github.com/techprem324/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techprem324&repo=REPO_NAME_1&theme=radical&bg_color=0d1117&border_color=00d4ff&title_color=00f7ff&icon_color=a855f7&hide_border=false" width="48%" />
-</a>
-<a href="https://github.com/techprem324/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techprem324&repo=REPO_NAME_2&theme=radical&bg_color=0d1117&border_color=a855f7&title_color=00f7ff&icon_color=a855f7&hide_border=false" width="48%" />
-</a>
-<a href="https://github.com/techprem324/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techprem324&repo=REPO_NAME_3&theme=radical&bg_color=0d1117&border_color=a855f7&title_color=00f7ff&icon_color=a855f7&hide_border=false" width="48%" />
-</a>
-<a href="https://github.com/techprem324/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techprem324&repo=REPO_NAME_4&theme=radical&bg_color=0d1117&border_color=00d4ff&title_color=00f7ff&icon_color=a855f7&hide_border=false" width="48%" />
-</a>
+<p align="center">
+  <a href="https://github.com/techprem324/YOUR_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techprem324&repo=YOUR_REPO_1&theme=radical&bg_color=0d1117&border_color=00d4ff" alt="project 1" /></a>
+  <a href="https://github.com/techprem324/YOUR_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techprem324&repo=YOUR_REPO_2&theme=radical&bg_color=0d1117&border_color=a855f7" alt="project 2" /></a>
+</p>
+-->
 
-</div>
-
-<br/>
-
-## 🔥 Live Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=techprem324&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4ff&hide_border=false&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techprem324&theme=radical&background=0d1117&border=a855f7&hide_border=false" width="48%" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techprem324&layout=compact&theme=radical&bg_color=0d1117&border_color=a855f7&hide_border=false" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=techprem324&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8" width="48%" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techprem324/techprem324/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techprem324/techprem324/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/techprem324/techprem324/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/techprem324"><img src="https://img.shields.io/github/followers/techprem324?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=techprem324&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:a855f7,50:6a11cb,100:00d4ff&section=footer&animation=twinkling" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a855f7,50:7c3aed,100:0ea5e9&section=footer&animation=twinkling" width="100%" alt="footer" />
+</p>
