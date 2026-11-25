@@ -15,15 +15,6 @@ I believe in 'consistency, clean code, and continuous improvement'.
   <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,mysql,html,css,js,react,nodejs,express,mongodb,sqlite,postman,git,github,vscode,linux,docker,nginx,aws," />
 </p>
 
-## 📈 Currently Working On
-
-- 🧩 Advanced DSA problem-solving
-- 🏗️ Backend system design fundamentals
-- 🔌 Building and consuming RESTful APIs
-- 🗄️ Improving database performance and query writing
-- 🚀 Shipping production-ready projects
-
-
 
 ## 🎯 Career Goal
 
