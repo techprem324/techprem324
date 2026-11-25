@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:0ea5e9,70:7c3aed,100:a855f7&section=header&text=%E2%9A%A1%20PREM%20SRIVASTAVA%20%E2%9A%A1&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Build%20%E2%80%A2%20Break%20%E2%80%A2%20Repeat&descSize=20&descAlignY=60" width="100%" alt="Animated lightning header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+this+is+Prem+Srivastava+here+%F0%9F%91%8B;Good+Morning+%E2%98%80%EF%B8%8F+%7C+Let%E2%80%99s+build+something+awesome;Good+Afternoon+%F0%9F%8C%A4+%7C+Writing+clean+code;Good+Evening+%F0%9F%8C%86+%7C+Solving+real-world+problems;Late+Night+%F0%9F%8C%99+%7C+Debugging+and+learning&cacheSeconds=1" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+this+is+Prem+Srivastava+here+%F0%9F%91%8B;Good+Morning+%E2%98%80%EF%B8%8F+%7C+Let%E2%80%99s+build+something+awesome;Good+Afternoon+%F0%9F%8C%A4+%7C+Writing+clean+code;Good+Evening+%F0%9F%8C%86+%7C+Solving+real-world+problems;Late+Night+%F0%9F%8C%99+%7C+Debugging+and+learning&cacheSeconds=1" alt="Typing intro" />
+  <img src="https://raw.githubusercontent.com/techprem324/techprem324/main/lightning.svg" width="100%" alt="Lightning banner" />
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 ## 🧠 Core Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,mysql,html,css,react,nodejs,express,mongodb,sqlite,postman,git&perline=14" alt="skills row 1" />
+  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,mysql,html,css,js,react,nodejs,express,mongodb,sqlite,postman,git,github,vscode,linux,docker,nginx,aws,figma,npm,tailwind&perline=12" alt="Technical skills" />
   <br />
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux,docker,nginx,aws&perline=14" alt="skills row 2" />
+  <img src="https://img.shields.io/badge/-REST%20API-00d4ff?style=for-the-badge&labelColor=0d1117" height="40" alt="REST API" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:a855f7,50:7c3aed,100:00d4ff&animation=twinkling" width="100%" alt="divider" />
@@ -34,7 +34,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=techprem324&theme=radical&background=0d1117&border=a855f7&hide_border=false" alt="streak" />
 </p>
-
-
-
-
