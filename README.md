@@ -35,11 +35,6 @@
   <img src="https://streak-stats.demolab.com/?user=techprem324&theme=radical&background=0d1117&border=a855f7&hide_border=false" alt="streak" />
 </p>
 
- OPTIONAL PROJECT CARDS: remove the comment markers around this block and put your real repo names in place of YOUR_REPO_1 and YOUR_REPO_2
 
-<p align="center">
-  <a href="https://github.com/techprem324/YOUR_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techprem324&repo=YOUR_REPO_1&theme=radical&bg_color=0d1117&border_color=00d4ff" alt="project 1" /></a>
-  <a href="https://github.com/techprem324/YOUR_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techprem324&repo=YOUR_REPO_2&theme=radical&bg_color=0d1117&border_color=a855f7" alt="project 2" /></a>
-</p>
 
 
