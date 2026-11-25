@@ -30,7 +30,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=techprem324&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4ff&hide_border=false&count_private=true" height="165" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techprem324&layout=compact&theme=radical&bg_color=0d1117&border_color=a855f7&hide_border=false" height="165" alt="top languages" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=techprem324&theme=radical&background=0d1117&border=a855f7&hide_border=false" alt="streak" />
-</p>
