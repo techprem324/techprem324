@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+this+is+Prem+Srivastava+here+%F0%9F%91%8B;Good+Morning+%E2%98%80%EF%B8%8F+%7C+Let%E2%80%99s+build+something+awesome;Good+Afternoon+%F0%9F%8C%A4+%7C+Writing+clean+code;Good+Evening+%F0%9F%8C%86+%7C+Solving+real-world+problems;Late+Night+%F0%9F%8C%99+%7C+Debugging+and+learning&cacheSeconds=1" alt="Typing intro" />
 </p>
 
@@ -45,4 +45,40 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a855f7,50:7c3aed,100:0ea5e9&section=footer&animation=twinkling" width="100%" alt="footer" />
+</p> -->
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F5C26B&center=true&vCenter=true&width=700&lines=Hey%2C+this+is+Prem+Srivastava+here+%F0%9F%91%8B;Good+Morning+%E2%98%80%EF%B8%8F+%7C+Let%E2%80%99s+build+something+awesome;Good+Afternoon+%F0%9F%8C%A4+%7C+Writing+clean+code;Good+Evening+%F0%9F%8C%86+%7C+Solving+real-world+problems;Late+Night+%F0%9F%8C%99+%7C+Debugging+and+learning&cacheSeconds=1" alt="Typing intro" />
 </p>
+
+<img src="https://raw.githubusercontent.com/techprem324/techprem324/main/rabbit-run.svg" width="100%" alt="Rabbit running" />
+
+## 🧠 Core Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,mysql,html,css,js,react,nodejs,express,mongodb,sqlite,postman,git,github,vscode,linux,docker,nginx,aws,figma,npm,tailwind&perline=12" alt="Technical skills" />
+  <br />
+  <img src="https://img.shields.io/badge/-REST%20API-F5C26B?style=for-the-badge&labelColor=1f2335&logoColor=white" height="40" alt="REST API" />
+</p>
+
+<img src="https://raw.githubusercontent.com/techprem324/techprem324/main/rabbit-run-2.svg" width="100%" alt="Rabbit running" />
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techprem324&show_icons=true&hide_border=false&count_private=true&bg_color=0f1226&border_color=2d3354&title_color=f5c26b&text_color=e5e7eb&icon_color=e8833a" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techprem324&layout=compact&bg_color=0f1226&border_color=2d3354&title_color=f5c26b&text_color=e5e7eb" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=techprem324&background=0F1226&border=2D3354&ring=F5C26B&fire=E8833A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F5C26B&sideLabels=F5C26B&dates=8B93B0" alt="Streak" />
+</p>
+
+<img src="https://raw.githubusercontent.com/techprem324/techprem324/main/rabbit-run.svg" width="100%" alt="Rabbit running" />
+
