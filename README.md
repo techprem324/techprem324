@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=techprem324&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" alt="views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00d4ff,50:7c3aed,100:a855f7&animation=twinkling" width="100%" alt="divider" />
 
 ## 🧠 Core Technical Skills
 
